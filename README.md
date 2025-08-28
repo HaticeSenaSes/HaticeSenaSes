@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Sena 👋
 
-<!--
-**HaticeSenaSes/HaticeSenaSes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year student in **Information Systems & Technologies**  
+💻 Passionate about **Flutter & Mobile App Development**  
+⚖️ Researching **Legal Liability of AI in Fully Autonomous Ships**  
+🚀 Enthusiastic about open-source contributions and learning new technologies  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Dart, Java, C, C++, PHP  
+- **Frameworks & Tools:** Flutter, Android Studio, VS Code, Git & GitHub  
+- **Databases:** SQLite, MySQL  
+
+
+## 📌 Featured Projects
+- [Rick and Morty App](https://github.com/HaticeSenaSes/rickandmorty) – Flutter app consuming Rick & Morty API  
+ 
+
+
+## 📊 GitHub Stats
+![Hatice's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaticeSenaSes&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaticeSenaSes&layout=compact&theme=radical)
+
+
+## 🌍 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/haticesena)  
+- 📧 Email: haticesenasess@gmail.com  
+
+ 
