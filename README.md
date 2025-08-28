@@ -23,7 +23,7 @@
 
 
 ## 🌍 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/haticesena)  
+- [LinkedIn](https://www.linkedin.com/in/haticesenases/)  
 - 📧 Email: haticesenasess@gmail.com  
 
  
