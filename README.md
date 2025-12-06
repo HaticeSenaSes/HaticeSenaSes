@@ -2,7 +2,6 @@
 
 🎓 Final-year student in **Information Systems & Technologies**  
 💻 Passionate about **Flutter & Mobile App Development**  
-⚖️ Researching **Legal Liability of AI in Fully Autonomous Ships**  
 🚀 Enthusiastic about open-source contributions and learning new technologies  
 
 
